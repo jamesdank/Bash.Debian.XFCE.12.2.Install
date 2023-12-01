@@ -140,7 +140,6 @@ cd $DOWNLOADS
 
 sudo rm *.deb
 sudo rm *.run
-sudo rm *.sh
 
 echo -e "\nInstallation Finished\n"
 sleep 2
